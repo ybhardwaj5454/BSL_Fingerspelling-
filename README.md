@@ -1,2 +1,2 @@
 # BSL_Fingerspelling-
-Author - Yash Bhardwaj
+Author - Yash Bhardwaj(Hero)
